@@ -1,15 +1,1 @@
-dfsdf
-sdfsd
-dafsedfsdfs
-dfdsf
-dfsdf
-sdfsf
-dfdsg
-dfsdf
-fdsf
-dfsdf
-dfsdf
-sdfsdfg
-dsfsdfsdfasfsdfdsfdfsdfdfsdfsdgsdfadfdssdasfdfsdfsdfsdfsdfgssfsdfdsfvsdf0dsvgdfgsdfsdffdsdfdsds# test_secrets
-secrets
-asdfsf
+aws 90GFJD89SHS7
